@@ -1,9 +1,9 @@
 {
-  "version": "0.6.0-beta.8",
-  "versionCode": 14,
+  "version": "0.6.0-beta.9",
+  "versionCode": 15,
   "package": "com.mintclubx.xtm",
-  "file": "mintclub-0.6.0-beta.8.apk",
-  "bytes": 155140306,
-  "sha256": "e84b04dfbc4f17e0077650eff4c625df9ef31687d3efd14504b2a8f1130a239b",
-  "download": "https://github.com/KimSimSool/MintClub-downloads/releases/download/v0.6.0-beta.8/mintclub-0.6.0-beta.8.apk"
+  "file": "mintclub-0.6.0-beta.9.apk",
+  "bytes": 155152718,
+  "sha256": "b405632150890b99eb7f585d594812eef378401a99fc9bcfe40462b6ccc0245a",
+  "download": "https://github.com/KimSimSool/MintClub-downloads/releases/download/v0.6.0-beta.9/mintclub-0.6.0-beta.9.apk"
 }
